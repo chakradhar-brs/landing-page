@@ -1,3 +1,3 @@
-# JS Landing Page 
+# Java script landing page
 
 
